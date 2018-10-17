@@ -1,30 +1,9 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: A quick summary of Home -->
 
-# HOME PAGE
-Home page
-From Wikipedia, the free encyclopedia
-Jump to navigationJump to search
-Not to be confused with home screen.
-For other uses, see Home page (disambiguation).
-"Start page" redirects here. For the search engine, see Ixquick.
-For Wikipedia's home page, see Wikipedia:Main Page and www.wikipedia.org
+# WIKI home page
+![Trembit](/uploads/trembit.png "Trembit")
 
-The home page of the English Wikipedia
-A home page or a start page is the initial or main web page of a website or a browser. The initial page of a website is sometimes called main page as well.
-
-
-Contents
-1	Website home page
-1.1	Website structure
-2	Browser home page
-3	History of home pages
-4	Other uses
-5	See also
-6	References
-7	External links
-Website home page
-A home page is generally the main page a visitor navigating to a website from a web search engine will see, and it may also serve as a landing page to attract visitors.[1][2] The home page is used to facilitate navigation to other pages on the site by providing links to prioritized and recent articles and pages, and possibly a search box.[3] For example, a news website may present headlines and first paragraphs of top stories, with links to full articles, in a dynamic web page that reflects the popularity and recentness of stories.[4] Meanwhile, other websites use the homepage to attract users to create an account. Once they are logged in, the homepage may be redirected to their profile page. This may in turn be referred to as the "personal home page".[5]
 
 A website may have multiple home pages, although most have one.[6] Wikipedia, for example, has a home page at wikipedia.org, as well as language-specific home pages, such as en.wikipedia.org and de.wikipedia.org.
 
