@@ -21,7 +21,7 @@ When you change any of the information in the branch range, the Commit and Files
 > * Using the compare view, you can set up comparisons across any timeframe. For more information, see "Comparing commits across time."
 > * Project maintainers can add a pull request template for a repository. Templates include prompts for information in the body of a pull request. For more information, see "About issue and pull request templates."
 
-Creating the pull request
+**Creating the pull request**
 
 1. On GitHub, navigate to the main page of the repository.
 1. In the "Branch" menu, choose the branch that contains your commits.
