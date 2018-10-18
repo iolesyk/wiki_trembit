@@ -29,6 +29,8 @@ Creating the pull request
 1. Use the base branch dropdown menu to select the branch you'd like to merge your changes into, then use the compare branch drop-down menu to choose the topic branch you made your changes in.
 1. Type a title and description for your pull request.
 1. Click Create pull request.
+
+
 > Tip: After you create a pull request, you can ask a specific person to review your proposed changes. For more information, see "Requesting a pull request review."
 > After your pull request has been reviewed, it can be merged into the repository.
 
