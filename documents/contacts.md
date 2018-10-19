@@ -2,8 +2,6 @@
 <!-- SUBTITLE: A quick summary of Contacts -->
 
 # Table with public contacts :
-https://docs.google.com/spreadsheets/d/1qSbRWxTlvGom6fWeVyQoA2oKRLL66MWOBn10dmz0wXw/edit?usp=asogm#gid=0
-
 |    	| Name               	|  Email                          	| Skype               	| Phone         	| ICQ/Jabber/AIM/etc 	| Birth date 	| Start date 	| Github            	| Паспортные данные 	| ИНН 	| Адрес фактического проживания 	|
 |----	|--------------------	|------------	|--------------------------------	|---------------------	|---------------	|--------------------	|------------	|------------	|-------------------	|-------------------	|-----	|-------------------------------	|
 | 1  	| Бочарников Илья    	| illya.bocharnikov@gmail.com    	| kronos_88b          	| 093 4219626   	|                    	| 10.09.1988 	| 13.10.2016 	|                   	|                   	|     	|                               	|
@@ -42,3 +40,5 @@ https://docs.google.com/spreadsheets/d/1qSbRWxTlvGom6fWeVyQoA2oKRLL66MWOBn10dmz0
 | 34 	| Чуряк Андрей       	|  andreychuriak@gmail.com        	| andrew_keks11       	| 099 375 00 79 	|                    	| 06.03.1988 	| 20.02.2017 	|                   	|                   	|     	|                               	|
 | 35 	| Ярош Юрий          	| void.nugget@gmail.com          	| void.nugget         	| 093 406 41 95 	|                    	| 25.05.1991 	| 8.10.2018  	|                   	|                   	|     	|                               	|
 
+# Link to google doc table
+https://docs.google.com/spreadsheets/d/1qSbRWxTlvGom6fWeVyQoA2oKRLL66MWOBn10dmz0wXw/edit?usp=asogm#gid=0
